@@ -1,2 +1,2 @@
 # my_website
-This is my own website that I built with vanilla HTML.
+Personal Website. Showcases stuff I've done so far.
